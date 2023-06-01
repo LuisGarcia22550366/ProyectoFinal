@@ -1,0 +1,17 @@
+DETALLES DEL PEDIDO
+-------------------
+
+Producto: Pantalon
+Género: Hombre
+Talla: M
+Precio: $330.0
+Cantidad: 4
+Total: $1320.0
+
+Producto: Top
+Género: Hombre
+Talla: XXXL
+Precio: $510.0
+Cantidad: 6
+Total: $3060.0
+
